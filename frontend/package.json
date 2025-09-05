@@ -32,7 +32,7 @@
     "tailwindcss": "^3.4.4",
     "vite": "^7.1.2"
   },
-  "engines": {
-    "node": "18.x"
+   "engines": {
+    "node": "22.x"
   }
 }
