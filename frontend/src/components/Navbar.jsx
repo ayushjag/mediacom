@@ -20,7 +20,7 @@ const Navbar = () => {
     { path: '/about', label: 'ABOUT' },
     { path: '/contact', label: 'CONTACT' },
     {
-      path: 'https://doctoradmin-rouge.vercel.app/',
+      path: 'https://mediacom-a9le.vercel.app/',
       label: 'DOCTORS LOGIN',
       isExternal: true, // Flag for external links
     },
